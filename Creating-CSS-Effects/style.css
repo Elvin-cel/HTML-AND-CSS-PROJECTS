@@ -55,6 +55,7 @@ header p {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
+/* Card Hover */
 .effect-box:hover,
 .shadow-box:hover,
 .transition-box:hover,
@@ -105,6 +106,7 @@ h3 {
     from {
         color: #243b53;
     }
+
     to {
         color: #3b82f6;
     }
